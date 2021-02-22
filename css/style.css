@@ -18,7 +18,7 @@ a {
     justify-content: center;
     align-items: center;
     background-color: #fff;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 700;
     border: 1px solid rgba(0, 0, 0, .2);
     box-shadow: 0 4px 15px rgba(0, 0, 0, .2);
@@ -496,7 +496,8 @@ a {
 
 .menu__item-descr {
     margin-top: 20px;
-    padding: 0 20px
+    padding: 0 20px;
+    min-height: 130px;
 }
 
 .menu__item-divider {
